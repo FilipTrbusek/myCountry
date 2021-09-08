@@ -1,0 +1,53 @@
+html {
+  font-family: "Urbanist";
+  margin: 0;
+}
+body {
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  color: #402b1e;
+  background-color: rgba(234, 191, 94, 1);
+  margin: 0;
+  padding: 35px;
+  font-size: 3em;
+}
+figure {
+  background-color: rgba(234, 191, 94, 1);
+  text-align: center;
+  font-size: 2em;
+  margin: 0;
+}
+figcaption {
+  margin: 0;
+}
+
+header {
+  margin: 0;
+}
+
+img {
+  height: 680px;
+  width: 880px;
+}
+
+h2,
+h3 {
+  padding: 10px;
+}
+h2 {
+  margin: 0 auto;
+}
+
+p {
+  padding-left: 20px;
+}
+
+.middle {
+  width: 900px;
+  text-align: justify;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
