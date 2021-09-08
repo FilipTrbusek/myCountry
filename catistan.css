@@ -1,0 +1,10 @@
+* {
+  text-align: justify;
+  font-family: Catamaran, sans-serif, Arial;
+  margin: auto;
+  padding: 1rem;
+  font-weight: 300;
+}
+.name {
+  font-weight: 700;
+}
