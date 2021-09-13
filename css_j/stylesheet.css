@@ -1,0 +1,102 @@
+html {
+  font-family: "Urbanist";
+  margin: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  /* background: indigo; */
+}
+h1 {
+  text-align: center;
+  color: #402b1e;
+  background: linear-gradient(
+    228deg,
+    rgba(234, 191, 94, 1),
+    rgba(234, 191, 94, 0.7)
+  );
+  margin: 0;
+  padding: 35px;
+  font-size: 3em;
+  box-shadow: 4px 5px 20px gray;
+}
+figure {
+  background: linear-gradient(
+    228deg,
+    rgba(234, 191, 94, 0.7),
+    rgba(234, 191, 94, 1)
+  );
+
+  text-align: center;
+  font-size: 2em;
+  margin: 0;
+  margin-bottom: 100px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+figcaption {
+  margin: 10px auto;
+  background: white;
+  width: 300px;
+  padding: 7px;
+  border-radius: 10px;
+  box-shadow: 4px 5px 20px gray;
+}
+
+header {
+  margin: 0;
+}
+
+img {
+  height: 680px;
+  width: 880px;
+}
+
+h3 {
+  margin-left: 1.2em;
+  /* width: 50%; */
+  text-align: center;
+  font-size: 1.3em;
+}
+h2 {
+  margin-top: 2em;
+
+  margin-left: 1em;
+  width: 50%;
+  padding-left: 3em;
+}
+
+p {
+  margin: 20px auto;
+  text-align: justify;
+  width: 80%;
+
+  padding: 5px;
+}
+
+.middle {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+
+  width: 100%;
+}
+
+.div-container {
+  background: gray;
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+div {
+  width: 50%;
+}
+
+.flag {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  margin-left: 2em;
+  margin-top: 1em;
+}
