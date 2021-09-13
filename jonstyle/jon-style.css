@@ -14,7 +14,7 @@ header {
   height: 300px;
   width: 800px;
   margin: 0 auto;
-  background-image: url("/img/pixelia.png");
+  background-image: url("img/pixelia.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
